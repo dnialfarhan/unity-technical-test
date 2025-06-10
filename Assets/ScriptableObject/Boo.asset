@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de425a6fdf4f90b4d91e81608cb063c9, type: 3}
+  m_Name: Boo
+  m_EditorClassIdentifier: 
+  Name: Boo
+  cardSprite: {fileID: 21300000, guid: 110ca8ef09cfdbc419832aa94574879f, type: 3}
+  cardDescription: 'Deal 1 damage to enemy opponent.
+
+
+    Stun enemy opponent for
+    1 turn.'
+  origin: 2
+  rarity: 1
+  evolution: 0
+  Health: 3
+  Attack: 1
+  cardType: 2
+  spawnTargetCard: {fileID: 0}
+  spawnAmount: 0
+  stunTurns: 1
+  healAmount: 0

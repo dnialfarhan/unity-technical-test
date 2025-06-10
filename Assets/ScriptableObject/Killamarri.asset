@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de425a6fdf4f90b4d91e81608cb063c9, type: 3}
+  m_Name: Killamarri
+  m_EditorClassIdentifier: 
+  Name: Killamarri
+  cardSprite: {fileID: 21300000, guid: f00783c560b1f6d4eaa41f55af32ac27, type: 3}
+  cardDescription: Deal 3 damage to enemy opponent.
+  origin: 0
+  rarity: 3
+  evolution: 0
+  Health: 3
+  Attack: 3
+  cardType: 0
+  spawnTargetCard: {fileID: 0}
+  stunTurns: 0
+  healAmount: 0

@@ -10,8 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: de425a6fdf4f90b4d91e81608cb063c9, type: 3}
-  m_Name: Card_01
+  m_Name: Grailon
   m_EditorClassIdentifier: 
-  Name: 
-  Health: 0
-  Damage: 0
+  Name: Grailon
+  cardSprite: {fileID: 21300000, guid: e29ffdf2eaf645f4fb0d461b06af1c78, type: 3}
+  cardDescription: Deal 5 damage to enemy opponent.
+  origin: 3
+  rarity: 4
+  evolution: 0
+  Health: 10
+  Attack: 5
+  cardType: 0
+  spawnTargetCard: {fileID: 0}
+  stunTurns: 0
+  healAmount: 0
